@@ -1,4 +1,3 @@
 # Lern-Periode-1
 
-Was will ich nächstes mal für einen Projekt machen:
-Ich will nächstes mal einen Bot herstellen, der mir immer wieder Mathe Aufgaben gibt. Wenn ich sie richtig löse, soll er mir bravo!, super!, usw. sagen. Doch wenn ich falsch liege, soll er mir das sagen, und wenn ich die gleiche Aufgabe Falsch habe, soll er mir die richtige Lösung sagen. Plus eine Webseite zeigen die mir mit meinem Problem helfen kann.
+Ich werde mir das nächstes mal, am Anfang an den anderen Modulen arbeiten, da ich ein bisschen hintendran bin. Später, wähle ich mithilfe der Power Point, einen Projekt aus and dem ich arbeiten will, und versuche so weit zu kommen wie ich nun kann.
