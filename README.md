@@ -9,5 +9,5 @@ Ich werde mir das nächstes mal, am Anfang an den anderen Modulen arbeiten, da i
 
 ## Fein-Planung
 
-- [ ] Ich bin im Modul 319 ein bisschen hintendrein, darum möchte ich den Auftrag 0201 in Ruhe bearbeiten und mir Notizen machen.
+- [x] Ich bin im Modul 319 ein bisschen hintendrein, darum möchte ich den Auftrag 0201 in Ruhe bearbeiten und mir Notizen machen.
 - [ ] Ich finde die Idee mit dem Random Number Guesser geeignet; erster Schritt: Benutzer gibt eine Zahl ein, und mein Programm sagt, ob die Zahl grösser ist als die generierte Zufallszahl.
