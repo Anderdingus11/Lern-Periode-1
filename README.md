@@ -17,5 +17,5 @@ Diese Lern-Periode-1 geht vom 28.08.2026 bis zum 18.09.2026
 
 ## Nächstes mal
 - [x] Mithilfe des Internets, herausfinden wie ich die Zufallszahl und meinen Guess vergleichen kann, und wie mein Programm mir sagen kann ob die Zahl höher oder tiefer ist, und Ich will das mir meinen Programm sagt, wie viele Versuche es brauchte, um die Zahl zu erraten.
-- [ ] Ich will programmieren, dass der Text "tiefer" rot wird, "Höher" grün wird und "Korrekt!" gelb wird. Bei Modul 319 Mission 3 und 4 vollständig erledigen.
+- [ ] Ich will programmieren, dass der Text "tiefer" rot wird, "Höher" grün wird und "Korrekt!" gelb wird. Bei Modul 319 Mission 3 vollständig erledigen.
   
