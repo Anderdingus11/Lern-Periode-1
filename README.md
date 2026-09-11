@@ -23,9 +23,18 @@ Diese Lern-Periode-1 geht vom 28.08.2026 bis zum 18.09.2026
 - Ich habe heute im ersten Arbeitspaket an meinen Zufallszahlgenerator weitergearbeitet und fertig gemacht.
 - Im zweiten Arbeitspaket habe ich gemacht, dass mir meinen Programm, die verschiedene Antworten (Höher, tiefer, korrekt) mit Farben wiedergibt. Nachdem habe ich weiter am Modul 319 auf Mission 3 gearbeitet weil ich stark hintendrin war.
 
-## Nächstes mal
+## Nächstes mal für 11.09.2026
 - [x] Ich will auf C# in Visual Studio, auch einen Zahl Guesser erstellen, doch diesmal umgekehrt. (d.h der Programm fragt nach einer Zahl und ich sage tiefer, höher oder korrekt.)
-- [ ] Ich will einen Programm erstellen, der mich einen Code erstellen kann. 
-- [ ] ich programmiere es dann so weiter das ich dann auswählen kann, wie viele Zeichen im Code sind, und ich soll auswählen können was der Passwort enthalten soll. (z.B Spezielle Zeichen, Zahlen,)
-- [ ] Wenn ich noch etwas erledigen muss in andere Modulen, werde ich im letzten Arbeitspaket auf andere Module weiterabreiten wie z.B Modul 319 oder 431.
+- [x] Ich will einen Programm erstellen, der mich einen Code erstellen kann. 
+- [x] ich programmiere es dann so weiter das ich dann auswählen kann, wie viele Zeichen im Code sind, und ich soll auswählen können was der Passwort enthalten soll. (z.B Spezielle Zeichen, Zahlen,)
+- [ ] Wenn ich noch etwas erledigen muss in andere Modulen, werde ich im letzten Arbeitspaket auf andere Module weiterabreiten wie z.B Modul 319 oder 431. (Hausaufgabe)
+
+## Zusammenfassung Heutiger Lektion 11.09.2026
+- Ich habe im ersten Arbeitspaket auf Visual Studio auf C# einen Programm erstellt, der die Zahl in meinen Kopf raten soll.
+- Im zweiten Arbeitspaket habe ich einen Programm erstellt, der mir einen 12 stelligen Code der mich mit nur grosse Buchstaben gibt.
+- Im dritten Arbeitspaket habe ich dieses Programm dann erweitert, indem es mir einen Code gibt, nicht nur mit Grosse Buchstaben sondern auch mit kleine, und auch Zahlen und Sonderzeichen.
+- Der vierten Arbeitspaket habe ich als Hausaufgaben bekommen.
+
+## Nächstes mal
+- [ ] 
   
