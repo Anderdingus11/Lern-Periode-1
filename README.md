@@ -27,7 +27,7 @@ Diese Lern-Periode-1 geht vom 28.08.2026 bis zum 18.09.2026
 - [x] Ich will auf C# in Visual Studio, auch einen Zahl Guesser erstellen, doch diesmal umgekehrt. (d.h der Programm fragt nach einer Zahl und ich sage tiefer, höher oder korrekt.)
 - [x] Ich will einen Programm erstellen, der mich einen Code erstellen kann. 
 - [x] ich programmiere es dann so weiter das ich dann auswählen kann, wie viele Zeichen im Code sind, und ich soll auswählen können was der Passwort enthalten soll. (z.B Spezielle Zeichen, Zahlen,)
-- [ ] Wenn ich noch etwas erledigen muss in andere Modulen, werde ich im letzten Arbeitspaket auf andere Module weiterabreiten wie z.B Modul 319 oder 431. (Hausaufgabe)
+- [x] Wenn ich noch etwas erledigen muss in andere Modulen, werde ich im letzten Arbeitspaket auf andere Module weiterabreiten wie z.B Modul 319 oder 431. (Hausaufgabe) (Datei Name = 
 
 ## Zusammenfassung Heutiger Lektion 11.09.2026
 - Ich habe im ersten Arbeitspaket auf Visual Studio auf C# einen Programm erstellt, der die Zahl in meinen Kopf raten soll.
@@ -36,5 +36,8 @@ Diese Lern-Periode-1 geht vom 28.08.2026 bis zum 18.09.2026
 - Der vierten Arbeitspaket habe ich als Hausaufgaben bekommen.
 
 ## Nächstes mal
-- [ ] 
+- [ ] Ich machen einen Quiz spiel. Das Programm fragt mich manche Fragen und ich muss sie beantworten.
+- [ ] Ich mache ein Textabenteuer. Ich bekomme eine Situation und ich muss dann zwischen mehrere Optionen entscheiden.
+- [ ] Ich mache für den Textabenteuer Spiel, ein PAP und Testfälle für das Programm.
+- [ ] Ich mache einen Schere, Stein, Papier spiel. So lerne ich die "random" und die "if/else" Schleifen.
   
