@@ -1,24 +1,34 @@
-﻿// Wir erstellen eine Zufällige Zahl
-Random zufall = new Random();
-//Wir schreiben unsere Zeichen auf
-string gross = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-string klein = "abcdefghijklmnopqrstuvwxyz";
-string zahlen = "123456789";
-string sonderzeichen = "?!#@";
-// string aus alle zahlen
-string alleZahlen = gross + klein + zahlen + sonderzeichen; 
-// wir erstellen jetz einen leeren Code
-string code = "";
-//wir erstellen eine for- Schleife(Sie soll 8 mal durchgeführt werden, da wir schon 4 zeichen haben)
-// dann können wir für jedem Durchlauf ein neuse Zeichen hinzufügen
-// zuerst garantieren wir das mind. eins von jeder vor kommt(vor der "for" schleife)
-code = code + gross[zufall.Next(gross.Length)];
-code = code + klein[zufall.Next(klein.Length)];
-code = code + zahlen[zufall.Next(zahlen.Length)];
-code = code + sonderzeichen[zufall.Next(sonderzeichen.Length)];
-for (int i = 0; i < 8; i++) 
+﻿using System.ComponentModel.Design;
+
+Console.WriteLine("Willkommen zum Abenteuer-Spiel!");
+bool sucheSchatz = true;
+string antwort = "";
+
+Console.WriteLine("Möchtest du ein Schatz suchen? (ja/nein):");
+antwort = Console.ReadLine();
+// Zuerst machen wir das sich das bool nach der eingabe von ja oder nein verändert
+if (antwort == "ja")
 {
-    int position = zufall.Next(alleZahlen.Length);
-    code = code + alleZahlen[position];
+    sucheSchatz = true;
 }
-Console.WriteLine(code);
+else
+{
+    sucheSchatz = false;
+}
+// Jetzt machen wir die Kopfgesteuerte schleife
+    while (sucheSchatz == true)
+{
+    Console.WriteLine("Du suchst");
+    Console.WriteLine("Möchtest du weitersuchen? (ja/nein):");
+    antwort = Console.ReadLine();
+    // hier muss man die if schleife nochmals machen, da sie im Kopfgesteuerte Schleife ist, d.h die andere zählt nicht mehr
+    if (antwort == "ja")
+    {
+        sucheSchatz = true;
+    }
+    else
+    {
+        sucheSchatz = false;
+    }
+}
+Console.WriteLine("Schatzsuche beendet.");
