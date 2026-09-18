@@ -51,5 +51,12 @@ Diese Lern-Periode-1 geht vom 28.08.2026 bis zum 18.09.2026
 - Wenn du etwas ratest und es falsch ist, sagt es entweder "höher" oder "tiefer". Doch wenn du richtig liegst, dann sagt es dir "korrekt".
 <img width="665" height="381" alt="image" src="https://github.com/user-attachments/assets/3ed59ef8-8f3d-48cd-9c5a-145edd2fa970" />
 
+## Zusammenfassung 18.09.2026
+- Ich habe heute für alle drei Projekte die ich im Lernatelier 1 gemacht habe, teste durchgeführt, und PAP Tabellen/Diagramme erstellt.
+- Ich habe heute noch alle meine Programme verbessert von der Übersicht her, und eine Text Zusammenfassung gemacht, wie mein Lieblingsprogramm funktioniert.
+
+## Reflexion
+In dieser Lernperiode habe ich drei verschiedene C#-Programme gemacht. Als erstes habe ich einen Zahlen-Guesser erstellt. Das Programm erstellt eine zufällige Zahl, die ich erraten muss. Wenn meine Zahl falsch ist, sagt das Programm «Höher» oder «Tiefer». Wenn ich richtig liege, sagt es «Korrekt» und zeigt mir, wie viele Versuche ich gebraucht habe. Danach habe ich das Programm so verbessert, dass die Antworten verschiedene Farben haben. Als zweites habe ich einen Zahlen-Guesser gemacht, bei dem das Programm meine Zahl erraten muss. Als drittes habe ich einen Code-Generator programmiert. Dieser erstellt einen Code mit Gross- und Kleinbuchstaben, Zahlen und Sonderzeichen. Dabei habe ich gelernt, selbst nach Lösungen zu suchen und Fehler zu verbessern. Am Ende habe ich für alle drei Programme Testfälle und PAPs gemacht. Dadurch konnte ich besser verstehen, wie meine Programme funktionieren.
+Ich habe gemerkt, dass ich am besten lerne, wenn ich zuerst die Grundlagen aus dem Modul lerne und diese danach in meinen eigenen Programmen anwende. Dabei habe ich meine Programme immer wieder verbessert und neue Funktionen hinzugefügt. Am Schluss habe ich die Programme getestet und PAPs erstellt.
 
   
