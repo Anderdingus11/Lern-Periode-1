@@ -42,8 +42,14 @@ Diese Lern-Periode-1 geht vom 28.08.2026 bis zum 18.09.2026
 - Es ging um einen Spiel zu erstellen, der dir fragt ob du einen Schatz suchen willst, wenn du "ja" antwortest, gibt es die Nachricht "Du suchst" und wenn du "nein" antwortest sagt es "Die Suche ist beendet".
 
 ## Nächstes mal
-- [ ] Ich machen einen Quiz spiel. Das Programm fragt mich manche Fragen und ich muss sie beantworten.
-- [ ] Ich mache ein Textabenteuer. Ich bekomme eine Situation und ich muss dann zwischen mehrere Optionen entscheiden.
-- [ ] Ich mache für den Textabenteuer Spiel, ein PAP und Testfälle für das Programm.
-- [ ] Ich mache einen Schere, Stein, Papier spiel. So lerne ich die "random" und die "if/else" Schleifen.
+- [ ] Ich will für alle meine 3 Programme einen Testfall durchführen und meine Teste Protokolieren
+- [ ] Ich möchte für alle drei Programme einen PAP erstellen
+
+## Meine Projekte
+- Programm Zufallszahl Generator: Dieser Programm generiert eine zufällige Zahl, doch sie sagt nicht welche, den du musst sie erraten.
+- Du hast unendlich viele Versuche, doch nachdem du richtig geraten hast, sagt das Programm wie viele Versuche du gebraucht hast.
+- Wenn du etwas ratest und es falsch ist, sagt es entweder "höher" oder "tiefer". Doch wenn du richtig liegst, dann sagt es dir "korrekt".
+<img width="665" height="381" alt="image" src="https://github.com/user-attachments/assets/3ed59ef8-8f3d-48cd-9c5a-145edd2fa970" />
+
+
   
