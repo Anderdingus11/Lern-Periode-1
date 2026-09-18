@@ -35,6 +35,12 @@ Diese Lern-Periode-1 geht vom 28.08.2026 bis zum 18.09.2026
 - Im dritten Arbeitspaket habe ich dieses Programm dann erweitert, indem es mir einen Code gibt, nicht nur mit Grosse Buchstaben sondern auch mit kleine, und auch Zahlen und Sonderzeichen.
 - Der vierten Arbeitspaket habe ich als Hausaufgaben bekommen.
 
+## Summary Hausaufgaben
+- Ich habe Zuhause etwa 40 Minuten Lang am Modul 319 gearbeitet.
+- Ich habe an Kopfgsteuerte Programme gearbeitet. Ich habe ein Word Dokument bekommen, der mir meinen Auftrag erklärt hat.
+- Es gab Teilaufträge bekommen die mir dazu dienten einen Überblick zu halten für die Aufgaben.
+- Es ging um einen Spiel zu erstellen, der dir fragt ob du einen Schatz suchen willst, wenn du "ja" antwortest, gibt es die Nachricht "Du suchst" und wenn du "nein" antwortest sagt es "Die Suche ist beendet".
+
 ## Nächstes mal
 - [ ] Ich machen einen Quiz spiel. Das Programm fragt mich manche Fragen und ich muss sie beantworten.
 - [ ] Ich mache ein Textabenteuer. Ich bekomme eine Situation und ich muss dann zwischen mehrere Optionen entscheiden.
